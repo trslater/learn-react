@@ -23,4 +23,3 @@ npm run dev
 ## Differences to Tutorial
 
 -   Using Vite instead of CRA—this is a more modern scaffolding tool and is faster
--   Not using GitHub actions for now—I want to limit the new things to learn at once
